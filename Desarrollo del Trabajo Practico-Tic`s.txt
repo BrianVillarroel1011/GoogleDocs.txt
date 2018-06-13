@@ -1,0 +1,39 @@
+Google Docs- Tabajo practico- TIC`S
+
+QUE ES GOOGLE DOCS?
+
+Google Docs era lo que en la actualidad conocemos como Google Drive, y básicamente se trata de una suite de oficina similar en funciones y comportamiento a Microsoft Office, y que nos ofrece la posibilidad de crear documentos en línea en cualquier plataforma en la que nos encontremos, ya que para poder utilizar la suite podemos hacerlo a través de cualquier navegador. Actualmente Google Docs esta incorporado en Google Drive.
+
+
+COMO ACCEDER A GOOGLE DOCS?
+
+Para acceder a Google Docs simplemente se necesita poseer una cuenta de Google, ya sea una cuenta de correo Gmail o en la red social Google Plus, o crear una nueva a partir de otra dirección de correo. Una vez que se tiene una cuenta, acceder a Google Docs es posible desde cualquier navegador web o incluso a través de un smartphone Android o iPhone, y al crear un documento, el creador es el dueño del documento, que puede invitar colaboradores para que lo editen u otras personas para que lo visualicen.
+
+QUE TIPOS DE DOCUMENTES SE PUEDEN CREAR CON GOOGLE DOCS?
+
+TIENE LIMITES PARA CREAR DOCUMENTOS?
+
+CUALES SON LAS CARACTERISTICAS Y BENEFICIOS DE GOOGLE DOCS?
+
+1.- No es necesario realizar una Instalación. Para utilizar Google Docs no hay que instalar nada en el computador. Únicamente suscribirse al servicio de Google Docs para comenzar a crear documentos. aunque es necesario tener internet.
+
+2.- Precio (Gratuito). Google Docs, es completamente gratis, y por ahora no incluye publicidad.
+
+3.- Mejor Disponibilidad de la Información. los documentos en Google Docs  quedan almacenados en un servidor de Google por lo que estarán disponibles siempre que tengas a la mano una computadora o dispositivo móvil con acceso a Internet. Una gran ventaja de esto es que ya no necesitas copiar tus documentos en un medio de almacenamiento portátil (memoria USB, disco duro, CD, etc) para transportarlos.
+
+4.- Menor Uso de Recursos. Como todos los documentos se almacenan en los servidores de Google, no quedan los archivos almacenados en el disco duro del computador, ahorrando con esto una buena cantidad de espacio. 
+
+5.- Actualizaciones Frecuentes. siempre podemos encontrar novedades en esta herramienta, ya que el equipo de desarrollo de Google Docs se encuentra de manera permanente haciendo mejoras y agregando nuevas funciones y opciones. Estas mejoras y nuevas funciones son agregadas sin que el usuario tenga que hacer nada más que aprender a utilizarlas. En la parte superior de Google Docs se encuentra de manera permanente un enlace con el título Nuevas Funciones.
+
+6.- Mayor Compatibilidad. Los documentos creados con Google Docs pueden ser exportados y descargados con los formatos más populares como son los de MS Office (doc, xls,ppt), HTML y PDF (Acrobat) de manera natural y sencilla.
+
+7.- Trabajo colaborativo. Google Docs te permite compartir tus documentos con otros usuarios para que puedan trabajar en ellos de forma colaborativa, lo cual es muy útil para los grupos de trabajo. 
+
+8.- Organización de Archivos. Google Docs cuenta con un excelente organizador de archivos que permite administrar documentos de manera sencilla y eficiente. Este administrador clasifica automáticamente los archivos por frecuencia de uso, permite crear carpetas y archivos, compartir y ocultar documentos, resaltar documentos importantes, examinarlos por autor y por supuesto utilizar un excelente buscador para encontrarlos facilmente.
+9.- Importación de Archivos. Google Docs permite importar de forma sencilla documentos elaborados con MS Office y Open Office, conservando la mayor parte del formato de la información.
+
+10.- Notificación de cambios. el documento de google Docs puede ser configurado para que automaticamente informe cuando un colaborador realice algún cambio. Incluso se puede crear reglas para ser notificado sobre cambios en lugares específicos del documento.
+
+TIENE COMPETENCIA FRENTE A OTRA APLICACION WEB?
+
+CUALES SON SUS VENTAJAS Y DESVENTAJAS?

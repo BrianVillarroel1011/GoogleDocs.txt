@@ -1,0 +1,13 @@
+Para organizar de manera eficiente el desarrollo del trabajo practico se desea que se cumplan los siguientes criterios:
+
+* En "bibliografias.txt" incluir las paginas de la que sacaron los recursos para el desarrollo del tp.
+
+* En "Desarrollo del Trabajo Practico.txt" incluir sus avances:
+-poner titulos en mayuscula y debajo el desarrollo.
+-Modificar contenido si es que se desea agregar mas info en algo ya desarrollado o si contiene informacion redundante quitarlo.
+-habran titulos los cuales se desea que sean desarrollados en el caso de no tener informacion
+
+
+
+creo que con esto nos podriamos organizar, si desean agregar algo para tomar en cuenta lo agregan acá :)
+
